@@ -1,6 +1,6 @@
 # Hi, I'm MJ 👋
 
-I'm building a career in network and security engineering, with a goal of working in the US.
+I'm building a career in network and security engineering, with the goal of working in KY or IL.
 
 ## Certifications
 - Google Cybersecurity Professional Certificate
