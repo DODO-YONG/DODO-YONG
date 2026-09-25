@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm MJ 👋
 
-<!--
-**DODO-YONG/DODO-YONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building a career in network and security engineering, with a goal of working in the US.
 
-Here are some ideas to get you started:
+## Certifications
+- Google Cybersecurity Professional Certificate
+- Cisco CCNA 200-301 (in progress, exam November 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- [CCNA Study Log](../../../ccna-study-log): daily study log with Packet Tracer labs
+- [TryHackMe Write-ups](../../../tryhackme-writeups): notes from security rooms (no flags or answers)
+
+## Skills
+Networking (routing, switching, subnetting) · Linux · Wireshark · SQL · Python basics
