@@ -1,6 +1,6 @@
 # Hi, I'm SeongYong (MJ) Jeong 👋
 
-**Aspiring Network & Security Engineer** · building AI-assisted tools with Claude Code
+**Aspiring Network & Security Engineer** · building AI agents and automation tools
 
 I'm building a career in network and security engineering, with the goal of working in KY or IN.
 Before tech I spent three years in retail management in South Korea, then moved into data science as a bootcamp teaching assistant and mentor. I learn by building: in the past weeks I designed, shipped, and operated several small AI agents and web apps on my own, with security and zero running cost as ground rules.
