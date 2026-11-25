@@ -82,14 +82,14 @@ Before tech I spent three years in retail management in South Korea, then moved 
 
 ## 📓 Recent work
 <!-- journal:start -->
-**Week of Nov 23 – Nov 29: Admin Tool Modernization and New Service Foundations** · [weekly review](https://dodo-yong.github.io/Obsidian/journal/?lang=en#w-2026-11-23)
-> Expanded TRACER safely into production by adding an open-access mock admin portal and natural-language AI query tools.  
-> Defined the brand name, visual design, and core mechanics for the dating service 'say when', successfully deploying its initial web beta.  
-> Formulated cooperative multi-agent protocols and built automated systems for dispatching work progress reports.  
+**Week of Nov 23 – Nov 29: Admin Feature Enhancements and App Release Preparation** · [weekly review](https://dodo-yong.github.io/Obsidian/journal/?lang=en#w-2026-11-23)
+> Added mock admin features and an AI waiting screen to the network quiz platform, connecting them to the live admin console.  
+> Completed planning, UI design, authentication, and deployment for a new dating web app.  
+> Submitted the Android app for closed testing, recruited testers, and began running a public work log.  
 
 | Date | Highlights | Commits |
 |---|---|---|
-| [Nov 25](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-25) | Built automated reporting emails to summarize and send work updates every night and weekend.<br><sub>Workshop & Wiki</sub> | 2 |
+| [Nov 25](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-25) | Automated workspace operations, refined portfolio materials, and submitted app for closed testing.<br><sub>Workshop & Wiki, Tracer Route</sub> | 20 |
 | [Nov 24](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-24) | Named the dating app 'say when', completed web deployment, and tested user signups.<br><sub>say when (dating app), Workshop & Wiki</sub> | 55 |
 | [Nov 23](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-23) | Expanded learning platform admin features and established an equal dual-AI collaboration system<br><sub>TRACER, Workshop & Wiki, say when (dating app)</sub> | 31 |
 | [Nov 22](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-22) | Completed launch preparations for the network learning app and significantly expanded the question bank.<br><sub>Tracer Route, TRACER, SHADOW</sub> | 16 |
