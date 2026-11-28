@@ -81,18 +81,18 @@ Before tech I spent three years in retail management in South Korea, then moved 
 
 ## 📓 Recent work
 <!-- journal:start -->
-**Week of Nov 23 – Nov 29: Advancing Admin Tooling and Preparing Service Launches** · [weekly review](https://dodo-yong.github.io/Obsidian/journal/?lang=en#w-2026-11-23)
-> Added AI natural-language querying and interactive demo features to the network puzzle site's admin console, enabling all visitors to explore statistics.  
-> Submitted the network tracer Android app for global closed testing review, and built onboarding and core screens for a new dating service.  
-> Formulated collaboration protocols between two AI models and implemented an automated system delivering morning and evening email status updates.  
+**Week of Nov 23 – Nov 29: New Service Launch and Establishment of AI Collaboration Workflows** · [weekly review](https://dodo-yong.github.io/Obsidian/journal/?lang=en#w-2026-11-23)
+> Delivered a new information web service for native English teachers from concept to production launch.  
+> Enhanced administrative capabilities for the existing network learning platform and initiated global mobile app testing.  
+> Formulated multi-AI collaboration protocols and automated work logs and daily reporting emails.  
 
 | Date | Highlights | Commits |
 |---|---|---|
-| [Nov 27](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-27) | Built an anonymous board and map view for a native English teacher app, and organized workspace guidelines.<br><sub>Native English Teacher App, Workshop & Wiki, TRACER</sub> | 42 |
+| [Nov 28](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-28) | Polished features for the native English teacher app and paused dating app operations.<br><sub>Native English Teacher App, say when (dating app)</sub> | 19 |
+| [Nov 27](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-27) | Built community spaces and review features for the native English teacher app and refined usability.<br><sub>Native English Teacher App, Workshop & Wiki, TRACER</sub> | 43 |
 | [Nov 26](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-26) | Planned and completed the initial deployment of an academy review web service for native English teachers.<br><sub>Midnight Run Korea, Workshop & Wiki, Tracer Route</sub> | 62 |
 | [Nov 25](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-25) | Streamlined task automation and backups, and launched closed testing for a new app version.<br><sub>Workshop & Wiki, Tracer Route</sub> | 26 |
 | [Nov 24](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-24) | Named the dating app 'say when', completed web deployment, and tested user signups.<br><sub>say when (dating app), Workshop & Wiki</sub> | 55 |
-| [Nov 23](https://dodo-yong.github.io/Obsidian/journal/?lang=en#d-2026-11-23) | Expanded learning platform admin features and established an equal dual-AI collaboration system<br><sub>TRACER, Workshop & Wiki, say when (dating app)</sub> | 31 |
 
 <sub>Updated automatically every night from my commit history · [full journal →](https://dodo-yong.github.io/Obsidian/journal/?lang=en)</sub>
 <!-- journal:end -->
